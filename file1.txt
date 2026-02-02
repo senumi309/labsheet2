@@ -1,11 +1,1 @@
-BSc in Information Technology
-Semester 1
-
-Practical 02 – Version Controlling with Git II
-IT3030 – Programming Applications and Frameworks
-
-This file was created as part of the Git branching
-and pull request practical session.
-
-Student Name : __________________
-Date         : __________________
+echo "Small change by Raweesha"
